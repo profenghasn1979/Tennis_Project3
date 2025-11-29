@@ -1,0 +1,17 @@
+# Environments
+Tennis.app/
+Tennis.app.zip
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+.ipynb_checkpoints/
+
+# Large files / Checkpoints (Optional: remove these lines if you want to upload weights)
+# checkpoint_actor_0.pth
+# checkpoint_actor_1.pth
+# checkpoint_critic_0.pth
+# checkpoint_critic_1.pth
+
+# Logs
+unity-environment.log
